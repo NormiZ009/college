@@ -1,0 +1,5 @@
+tup=(1,2,3,4,5,6,7,8)
+print(f"max : {max(tup)}")
+print(f"min : {min(tup)}")
+print(f"sum : {sum(tup)}")
+print(f"avg : {sum(tup)/len(tup)}")
